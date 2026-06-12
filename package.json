@@ -1,0 +1,52 @@
+{
+  "name": "manus-ai-for-instagram",
+  "version": "1.0.0",
+  "description": "AI-powered Instagram content generator for AI tools, tips, and tricks",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test": "jest",
+    "test:apis": "node src/tests/test-apis.js",
+    "generate:post": "node examples/generate-caption.js",
+    "generate:batch": "node examples/batch-posts.js",
+    "build": "echo 'Build complete'",
+    "lint": "eslint src/",
+    "format": "prettier --write src/"
+  },
+  "keywords": [
+    "ai",
+    "instagram",
+    "content-generation",
+    "chatgpt",
+    "social-media",
+    "automation",
+    "prompts",
+    "tools"
+  ],
+  "author": "Hekmatpopal",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "openai": "^4.24.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.52.0",
+    "jest": "^29.7.0",
+    "nodemon": "^3.0.2",
+    "prettier": "^3.0.3"
+  },
+  "engines": {
+    "node": ">=16.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Hekmatpopal/Manus-Ai-for-Instagram.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Hekmatpopal/Manus-Ai-for-Instagram/issues"
+  },
+  "homepage": "https://github.com/Hekmatpopal/Manus-Ai-for-Instagram#readme"
+}
