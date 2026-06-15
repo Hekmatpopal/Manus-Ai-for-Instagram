@@ -313,9 +313,9 @@ MIT License - see [LICENSE](./LICENSE) file for details
 
 ## 🤝 Support & Connect
 
-- 📧 Email: your-email@example.com
+- 📧 Email: hekmat.popal@gmail.com
 - 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- 📱 Instagram: [@youraccount](https://instagram.com/youraccount)
+- 📱 Instagram: premium_3003 [[(https://instagram.com/youraccount)](https://ig.me/m/premium_3003)
 - 💬 GitHub Issues: [Report a bug](https://github.com/Hekmatpopal/Manus-Ai-for-Instagram/issues)
 
 ## ⭐ Show Your Support
